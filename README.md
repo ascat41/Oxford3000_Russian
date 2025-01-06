@@ -1,10 +1,9 @@
 # Oxford3000_Vocab
 
-This repository contains resources for the Oxford 3000 vocabulary, including a PDF with definitions, a CSV dataset, and an Anki deck integrated with the YouGlish API for enhanced learning.
+This repository contains resources for the Oxford 3000 vocabulary, a CSV dataset, and an Anki deck integrated with the YouGlish API for enhanced learning.
 
 ## Contents
 
-- `oxford_vocabulary_utf8.pdf`: A PDF document with definitions, translations, example sentences, synonyms, antonyms, and collocations for each word in the Oxford 3000 list.
 - `oxford3000_vocabulary_with_collocations_and_definitions_datasets.csv`: A CSV file containing the Oxford 3000 vocabulary with collocations and definitions.
 - `oxford3000_vocabulary.apkg`: An Anki deck for the Oxford 3000 vocabulary, integrated with the YouGlish API to provide pronunciation examples.
 
@@ -17,7 +16,7 @@ The datasets in this repository were generated using the powerful language model
 The Anki deck includes:
 - Vocabulary words from the Oxford 3000 list.
 - Definitions and example sentences.
-- Turkish translations.
+- Russian translations.
 - Part of speech.
 - Related forms.
 - Synonyms and antonyms.
@@ -35,7 +34,7 @@ The Anki deck includes:
 To get started with these resources:
 1. Clone the repository:
     ```bash
-    git clone https://github.com/ciwga/Oxford3000_Vocab.git
+    git clone https://github.com/ascat41/Oxford3000_Russian.git
     ```
 2. Access the files as needed for your learning and reference.
 
@@ -44,8 +43,5 @@ To get started with these resources:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
-
-*Note: This README.md file was generated with the assistance of OpenAI's GPT-4.*
-
 
 Happy learning!
